@@ -8,7 +8,6 @@ import java.util.Set;
 public class RouteCalculator
 {
     private StationIndex stationIndex;
-
     private static double interStationDuration = 2.5;
     private static double interConnectionDuration = 3.5;
 
