@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="INFO">
+    <appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+
+        <File name="appFile" fileName="logs/app.log" immediateFlush="true">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+        <File name="appWarningsFile" fileName="logs/appWarnings.log" immediateFlush="true">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+        <File name="appExceptionsFile" fileName="logs/appExceptions.log" immediateFlush="true">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+
+    </appenders>
+    <loggers>
+
+        <logger name="infoLogger" level="info">
+            <appender-ref ref="appFile"/>
+        </logger>
+        <logger name="warningsLogger" level="warn">
+            <appender-ref ref="appWarningsFile"/>
+        </logger>
+        <logger name="exceptionsLogger" level="error">
+            <appender-ref ref="appExceptionsFile"/>
+        </logger>
+
+        <root level="info">
+            <appender-ref ref="appFile"/>
+        </root>
+    </loggers>
+</configuration>

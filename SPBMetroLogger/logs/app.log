@@ -1,0 +1,36 @@
+2019-08-21 20:35:16.417 [main] INFO  infoLogger - test
+2019-08-21 20:38:02.437 [main] INFO  infoLogger - test
+2019-08-21 20:38:18.949 [main] INFO  infoLogger - фыва
+2019-08-21 20:38:18.950 [main] WARN  infoLogger - Станция не найдена: фыва
+2019-08-21 20:39:28.592 [main] INFO  infoLogger - 123
+2019-08-21 20:39:28.592 [main] INFO  infoLogger - 123
+2019-08-21 20:39:28.594 [main] WARN  infoLogger - Станция не найдена: 123
+2019-08-21 20:39:28.594 [main] WARN  infoLogger - Станция не найдена: 123
+2019-08-21 20:39:59.581 [main] INFO  infoLogger - Озерки
+2019-08-21 20:39:59.581 [main] INFO  infoLogger - Озерки
+2019-08-21 20:40:05.804 [main] INFO  infoLogger - Чкаловская
+2019-08-21 20:40:05.804 [main] INFO  infoLogger - Чкаловская
+2019-08-21 20:40:16.597 [main] INFO  infoLogger - -4
+2019-08-21 20:40:16.597 [main] INFO  infoLogger - -4
+2019-08-21 20:40:16.597 [main] WARN  infoLogger - Станция не найдена: -4
+2019-08-21 20:40:16.597 [main] WARN  infoLogger - Станция не найдена: -4
+2019-08-21 20:40:21.924 [main] INFO  infoLogger - 0.4.4.4
+2019-08-21 20:40:21.924 [main] INFO  infoLogger - 0.4.4.4
+2019-08-21 20:40:21.924 [main] WARN  infoLogger - Станция не найдена: 0.4.4.4
+2019-08-21 20:40:21.924 [main] WARN  infoLogger - Станция не найдена: 0.4.4.4
+2019-08-21 20:40:25.660 [main] INFO  infoLogger - 
+2019-08-21 20:40:25.660 [main] INFO  infoLogger - 
+2019-08-21 20:40:25.660 [main] WARN  infoLogger - Станция не найдена: 
+2019-08-21 20:40:25.660 [main] WARN  infoLogger - Станция не найдена: 
+2019-08-21 20:40:27.894 [main] INFO  infoLogger - 
+2019-08-21 20:40:27.894 [main] INFO  infoLogger - 
+2019-08-21 20:40:27.894 [main] WARN  infoLogger - Станция не найдена: 
+2019-08-21 20:40:27.894 [main] WARN  infoLogger - Станция не найдена: 
+2019-08-21 20:40:30.981 [main] INFO  infoLogger - ё
+2019-08-21 20:40:30.981 [main] INFO  infoLogger - ё
+2019-08-21 20:40:30.981 [main] WARN  infoLogger - Станция не найдена: ё
+2019-08-21 20:40:30.981 [main] WARN  infoLogger - Станция не найдена: ё
+2019-08-21 20:40:35.764 [main] INFO  infoLogger - 3
+2019-08-21 20:40:35.764 [main] INFO  infoLogger - 3
+2019-08-21 20:40:35.764 [main] WARN  infoLogger - Станция не найдена: 3
+2019-08-21 20:40:35.764 [main] WARN  infoLogger - Станция не найдена: 3
