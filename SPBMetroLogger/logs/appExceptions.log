@@ -1,1 +1,8 @@
-2019-08-21 20:35:16.420 [main] ERROR exceptionsLogger - test
+2019-08-22 13:10:56.634 [main] ERROR exceptionsLogger - src\main\resources\map.json
+2019-08-22 13:11:45.444 [main] ERROR exceptionsLogger - src\main\resources\map.json   java.nio.file.NoSuchFileException: src\main\resources\map.json
+2019-08-22 13:12:13.443 [main] ERROR exceptionsLogger - src\main\resources\map.json   java.nio.file.NoSuchFileException: src\main\resources\map.json
+2019-08-22 13:12:13.446 [main] ERROR exceptionsLogger - null
+2019-08-22 13:12:40.394 [main] ERROR exceptionsLogger - src\main\resources\map.json   java.nio.file.NoSuchFileException: src\main\resources\map.json
+2019-08-22 13:12:40.401 [main] ERROR exceptionsLogger - null
+2019-08-22 13:13:17.660 [main] ERROR exceptionsLogger - src\main\resources\map.json   java.nio.file.NoSuchFileException: src\main\resources\map.json
+2019-08-22 13:13:17.662 [main] ERROR exceptionsLogger - null  Unexpected token END OF FILE at position 0.

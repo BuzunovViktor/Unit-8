@@ -202,8 +202,8 @@ public class RouteCalculatorTest {
 
         List<Station> route2 = new ArrayList<>() {{
             add(stationIndex.getStation("Обводный канал"));
-            add(stationIndex.getStation("Пушкинская"));
             add(stationIndex.getStation("Звенигородская"));
+            add(stationIndex.getStation("Пушкинская"));
             add(stationIndex.getStation("Владимирская"));
             add(stationIndex.getStation("Площадь восстания"));
             add(stationIndex.getStation("Маяковская"));

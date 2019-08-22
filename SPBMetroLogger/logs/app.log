@@ -1,36 +1,22 @@
-2019-08-21 20:35:16.417 [main] INFO  infoLogger - test
-2019-08-21 20:38:02.437 [main] INFO  infoLogger - test
-2019-08-21 20:38:18.949 [main] INFO  infoLogger - фыва
-2019-08-21 20:38:18.950 [main] WARN  infoLogger - Станция не найдена: фыва
-2019-08-21 20:39:28.592 [main] INFO  infoLogger - 123
-2019-08-21 20:39:28.592 [main] INFO  infoLogger - 123
-2019-08-21 20:39:28.594 [main] WARN  infoLogger - Станция не найдена: 123
-2019-08-21 20:39:28.594 [main] WARN  infoLogger - Станция не найдена: 123
-2019-08-21 20:39:59.581 [main] INFO  infoLogger - Озерки
-2019-08-21 20:39:59.581 [main] INFO  infoLogger - Озерки
-2019-08-21 20:40:05.804 [main] INFO  infoLogger - Чкаловская
-2019-08-21 20:40:05.804 [main] INFO  infoLogger - Чкаловская
-2019-08-21 20:40:16.597 [main] INFO  infoLogger - -4
-2019-08-21 20:40:16.597 [main] INFO  infoLogger - -4
-2019-08-21 20:40:16.597 [main] WARN  infoLogger - Станция не найдена: -4
-2019-08-21 20:40:16.597 [main] WARN  infoLogger - Станция не найдена: -4
-2019-08-21 20:40:21.924 [main] INFO  infoLogger - 0.4.4.4
-2019-08-21 20:40:21.924 [main] INFO  infoLogger - 0.4.4.4
-2019-08-21 20:40:21.924 [main] WARN  infoLogger - Станция не найдена: 0.4.4.4
-2019-08-21 20:40:21.924 [main] WARN  infoLogger - Станция не найдена: 0.4.4.4
-2019-08-21 20:40:25.660 [main] INFO  infoLogger - 
-2019-08-21 20:40:25.660 [main] INFO  infoLogger - 
-2019-08-21 20:40:25.660 [main] WARN  infoLogger - Станция не найдена: 
-2019-08-21 20:40:25.660 [main] WARN  infoLogger - Станция не найдена: 
-2019-08-21 20:40:27.894 [main] INFO  infoLogger - 
-2019-08-21 20:40:27.894 [main] INFO  infoLogger - 
-2019-08-21 20:40:27.894 [main] WARN  infoLogger - Станция не найдена: 
-2019-08-21 20:40:27.894 [main] WARN  infoLogger - Станция не найдена: 
-2019-08-21 20:40:30.981 [main] INFO  infoLogger - ё
-2019-08-21 20:40:30.981 [main] INFO  infoLogger - ё
-2019-08-21 20:40:30.981 [main] WARN  infoLogger - Станция не найдена: ё
-2019-08-21 20:40:30.981 [main] WARN  infoLogger - Станция не найдена: ё
-2019-08-21 20:40:35.764 [main] INFO  infoLogger - 3
-2019-08-21 20:40:35.764 [main] INFO  infoLogger - 3
-2019-08-21 20:40:35.764 [main] WARN  infoLogger - Станция не найдена: 3
-2019-08-21 20:40:35.764 [main] WARN  infoLogger - Станция не найдена: 3
+2019-08-22 12:59:07.636 [main] INFO  infoLogger - Купчино
+2019-08-22 12:59:11.016 [main] INFO  infoLogger - фыва
+2019-08-22 12:59:14.269 [main] INFO  infoLogger - Озерки
+2019-08-22 13:03:44.530 [main] INFO  infoLogger - 
+2019-08-22 13:03:45.615 [main] INFO  infoLogger - 
+2019-08-22 13:03:46.303 [main] INFO  infoLogger - 
+2019-08-22 13:03:47.631 [main] INFO  infoLogger - 
+2019-08-22 13:03:50.031 [main] INFO  infoLogger - 
+2019-08-22 13:03:50.655 [main] INFO  infoLogger - 
+2019-08-22 13:04:09.815 [main] INFO  infoLogger - *-
+2019-08-22 13:04:11.174 [main] INFO  infoLogger - 
+2019-08-22 13:04:11.839 [main] INFO  infoLogger - 
+2019-08-22 13:04:14.382 [main] INFO  infoLogger - 
+2019-08-22 13:04:18.639 [main] INFO  infoLogger - ё
+2019-08-22 13:04:24.718 [main] INFO  infoLogger - 
+2019-08-22 13:04:24.719 [main] INFO  infoLogger - 
+2019-08-22 13:12:16.246 [main] INFO  infoLogger - asdf
+2019-08-22 13:12:18.158 [main] INFO  infoLogger - ef
+2019-08-22 13:13:19.134 [main] INFO  infoLogger - sdfg
+2019-08-22 13:14:43.905 [main] INFO  infoLogger - Девяткино
+2019-08-22 13:14:45.886 [main] INFO  infoLogger - Озерки
+2019-08-22 13:14:55.126 [main] INFO  infoLogger - учше

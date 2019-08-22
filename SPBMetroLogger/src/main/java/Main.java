@@ -11,6 +11,9 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import java.util.logging.Level;
+
+import static java.util.logging.Level.OFF;
 
 public class Main
 {
@@ -23,6 +26,7 @@ public class Main
 
     public static void main(String[] args)
     {
+
         logger = LogManager.getLogger("infoLogger");
         warningsLogger = LogManager.getLogger("warningsLogger");
         exceptionsLogger = LogManager.getLogger("exceptionsLogger");
@@ -36,11 +40,9 @@ public class Main
             try {
                 Station from = takeStation("Введите станцию отправления:");
                 Station to = takeStation("Введите станцию назначения:");
-
                 List<Station> route = calculator.getShortestRoute(from, to);
                 System.out.println("Маршрут:");
                 printRoute(route);
-
                 System.out.println("Длительность: " +
                         RouteCalculator.calculateDuration(route) + " минут");
             } catch (Exception e) {
@@ -86,7 +88,7 @@ public class Main
             if(station != null) {
                 return station;
             }
-            logger.warn("Станция не найдена: " + line);
+            warningsLogger.warn("Станция не найдена: " + line);
             System.out.println("Станция не найдена :(");
         }
     }
@@ -109,7 +111,7 @@ public class Main
             parseConnections(connectionsArray);
         }
         catch(Exception ex) {
-            ex.printStackTrace();
+            exceptionsLogger.error(ex.getMessage() + "  " + ex.toString());
         }
     }
 
@@ -173,7 +175,7 @@ public class Main
             lines.forEach(line -> builder.append(line));
         }
         catch (Exception ex) {
-            ex.printStackTrace();
+            exceptionsLogger.error(ex.getMessage() + "   " + ex.toString());
         }
         return builder.toString();
     }
